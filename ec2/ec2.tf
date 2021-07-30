@@ -28,6 +28,6 @@ resource "aws_instance" "web2" {
   instance_type = "t3.micro"
 
   tags = {
-    Name = "HelloWorld"
+    Name = "NewOne"
   }
 }
